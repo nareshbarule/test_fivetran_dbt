@@ -4,7 +4,7 @@ dbt_test_project:
       dataset: google_sheets
       job_execution_timeout_seconds: 300
       job_retries: 1
-      keyfile: C:\Users\RAU041\Downloads\gcp-training-329609-bd9dbabb0fa8.json
+      keyfile: gcp-training-329609-bd9dbabb0fa8.json
       location: US
       method: service-account
       priority: interactive
